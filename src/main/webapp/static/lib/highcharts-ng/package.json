@@ -48,6 +48,6 @@
   },
   "main": "./dist/highcharts-ng",
   "dependencies": {
-    "highcharts": "^5.0.9"
+    "highcharts": "^8.2.0"
   }
 }
